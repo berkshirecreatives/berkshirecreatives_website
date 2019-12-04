@@ -1,0 +1,83 @@
+/*!
+ * Start Bootstrap - Full Slider (https://startbootstrap.com/template-overviews/full-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/master/LICENSE)
+ */
+
+.carousel-item {
+  height: 50vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.ftco-navbar-light {
+    background: transparent !important;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    z-index: 3;
+}
+
+#newsContent{
+    height:90px; border-bottom: 1px solid #f5f5f5;
+}
+
+
+#newsContent a {color: #333333; font-weight:500; text-decoration: none; text-transform: uppercase; font-size:7px; margin:0;display: block;}
+
+#newsContent a:hover{
+    display: block;
+    text-decoration: none;
+    color: black;
+    }
+
+}
+
+
+#newsContentLast p {color: #333333; font-weight:500; text-decoration: none; text-transform: uppercase; font-size:7px; margin:0;}
+
+#newsContentLast p:hover{
+    display: block;
+    text-decoration: none;
+    color: black;
+    }
+
+
+
+#newsContentMain{
+    height:50px; 
+}
+
+
+#newsContentMain p {color: #333333; font-weight:500; text-decoration: none; text-transform: uppercase; font-size:7px; margin:0;}
+
+#newsContentMain p:hover{
+    display: block;
+    text-decoration: none;
+    color: black;
+
+/*    transition-duration: */
+    }
+
+
+
+.news{
+    background: #fff;
+}
+
+.news a {
+   color: #333333; font-weight:500; text-decoration: none; text-transform: uppercase; font-size:7px; margin:0;display: block;
+}
+
+.createGroup {
+    padding: 20px;
+}
+
+.createGroup p {
+    margin:5px 7px 0 0;
+}

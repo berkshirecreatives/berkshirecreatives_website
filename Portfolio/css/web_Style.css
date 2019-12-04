@@ -1,0 +1,21 @@
+.pricing{
+    margin-bottom: 80px;
+}
+
+.pricing1{
+    background:black;height:320px;border-radius:10px;padding:10px; margin-top: 15px;
+}
+
+.pricing1 h4{
+    font-weight: 400;font-size: 12px; text-transform: uppercase;letter-spacing:3px;color:#fff;text-align: center;
+}
+
+.pricing hr
+{
+    background-color: orange; width:100px;
+}
+
+.pricing p
+{
+    color: #fff; font-size:11px; padding-top:25px;
+}

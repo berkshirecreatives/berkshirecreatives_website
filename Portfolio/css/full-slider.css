@@ -1,0 +1,179 @@
+/*!
+ * Start Bootstrap - Full Slider (https://startbootstrap.com/template-overviews/full-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/master/LICENSE)
+ */
+
+.carousel-item {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.ftco-navbar-light {
+    background: transparent !important;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    z-index: 3;
+}
+
+#newsContent{
+    height:90px; border-bottom: 1px solid #f5f5f5;
+}
+
+
+#newsContent a {color: #333333; font-weight:500; text-decoration: none; text-transform: uppercase; font-size:7px; margin:0;display: block;}
+
+#newsContent a:hover{
+    display: block;
+    text-decoration: none;
+    color: black;
+    }
+
+}
+
+
+#newsContentLast p {color: #333333; font-weight:500; text-decoration: none; text-transform: uppercase; font-size:7px; margin:0;}
+
+#newsContentLast p:hover{
+    display: block;
+    text-decoration: none;
+    color: black;
+    }
+
+
+
+#newsContentMain{
+    height:50px; 
+}
+
+
+#newsContentMain p {color: #333333; font-weight:500; text-decoration: none; text-transform: uppercase; font-size:7px; margin:0;}
+
+#newsContentMain p:hover{
+    display: block;
+    text-decoration: none;
+    color: black;
+
+/*    transition-duration: */
+    }
+
+
+
+.news{
+    background: #fff;
+}
+
+.news a {
+   color: #333333; font-weight:500; text-decoration: none; text-transform: uppercase; font-size:7px; margin:0;display: block;
+}
+
+.shadow {
+	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+
+}
+
+.links {
+    transition: transform .5s; /* Animation */
+    margin: 0 auto;
+}
+
+.links:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.footer_service ul{
+   list-style:none;font-weight: 400;font-size:10px; text-transform: uppercase;letter-spacing:3px;margin-bottom:18px;padding:0;margin-top:22px;
+}
+
+.footer_service ul li a{
+   color:#fff;text-decoration: none;
+}
+
+.footer_service ul li{
+   margin-top: 30px;
+}
+
+.services{
+    transition: transform .5s; /* Animation */
+    margin: 0 auto;
+}  
+
+.services:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
+
+.footer_contact ul{
+   list-style:none;font-weight: 400;font-size:9px; text-transform: uppercase;letter-spacing:3px;margin-bottom:18px;padding:0;margin-top:16px;
+}
+
+.footer_contact ul li{
+   color:#fff;text-decoration: none; margin-top: 20px;
+}
+
+
+.contactUs{
+    transition: transform .5s; /* Animation */
+    margin: 0 auto;
+}  
+
+.contactUs:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.pricing
+{
+    margin-bottom: 150px;
+}
+
+
+
+
+
+
+body,
+html {
+     width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+#particles-js canvas {
+    display: block;
+    vertical-align: bottom;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+    -webkit-transition: opacity .8s ease, -webkit-transform 1.4s ease;
+    transition: opacity .8s ease, transform 1.4s ease
+}
+
+#particles-js {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -10;
+    top: 0;
+    left: 0
+}
+
+
+input.contact_input [type="text"], textarea {
+
+  background-color : black; 
+
+}
+
+
+
